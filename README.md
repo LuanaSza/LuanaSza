@@ -1,4 +1,4 @@
-<h2 align="left">Hello worl, I'm Luana, be very welcome</h2>
+<h2 align="left">Hello world, I'm Luana, be very welcome</h2>
 
 ###
 
