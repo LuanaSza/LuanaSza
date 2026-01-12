@@ -24,17 +24,9 @@ I am a technology student passionate about turning ideas into code. Currently, I
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
-
 ### 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email:** your-email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/luana-souza-84045a327/
+- **Email:** luanacs.work@gmail.com
 
 ---
 *"Always seeking the next challenge and learning something new every day."*
