@@ -6,11 +6,17 @@
 ## 👩🏻‍💻 About me
 
 ```js
-const luana = {
-  location: "Brazil 🇧🇷",
-  currentRole: "Full Stack PHP Intern",
-  focus: "Web Development & E-commerce",
-  background: "Former Clinical Analysis Technician",
-  learning: ["Advanced React", "Software Architecture", "Clean Code"],
-  goals: "Become a strong and strategic Web Developer"
-}
+const myself = {
+    name : 'Luana Souzaa',
+    education: 'Systems Analysis and Development',
+    developer: 'Full Stack Developer ',
+    skills: [
+      'PHP',
+     'JavaScript',
+     'Typescript',
+     'React Js',
+     'Next Js',
+     'GIT',
+    ]
+ }
+
