@@ -11,7 +11,7 @@ const myself = {
     education: 'Systems Analysis and Development',
     developer: 'Full Stack Developer ',
     skills: [
-      'PHP',
+     'PHP',
      'JavaScript',
      'Typescript',
      'React Js',
